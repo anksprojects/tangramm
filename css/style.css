@@ -63,6 +63,14 @@ background-color: #333;
 }
 .main .main-txt{
     padding:0 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+.main .para-txt{
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    color: #121212
 }
 .main .grid { 
     margin-top: 1rem;
