@@ -1,0 +1,78 @@
+body{
+    
+}
+.font1{
+    font-family: 'Poppins', sans-serif;
+
+}
+.font2{
+
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    padding: 1rem ;
+    height: 100vh;
+}
+.header .nav ul li{
+    list-style:none;
+    padding: 20px 30px;
+}
+
+.header .logo .logo-txt {
+    font-weight: 700;
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: #121212;
+    letter-spacing: -2px;
+}
+.header .logo .para-txt{
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    color: #121212
+} 
+.header .logo .btn{
+    padding:1rem;
+
+}
+
+.btn-grid{
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+    justify-items: center;
+    align-items: stretch;
+}
+.download-btn a, .figma-btn a{
+    padding: 20px 50px;
+    background:#121212;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+ a:hover{
+background-color: #333;
+}
+
+.main{
+    padding:1rem;
+    height: 100vh;
+}
+.main .main-txt{
+    padding:0 1rem;
+}
+.main .grid { 
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    align-items: stretch;
+    justify-items: center;
+    }
+
+  .grid img {
+    max-width: 100%;
+  }
