@@ -24,4 +24,4 @@ This is an open-source illustration work based on [Tangram art](https://en.wikip
 Please make sure to check updates as well
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/anksprojects/tangramm/blob/master/LICENSE)
