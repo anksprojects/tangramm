@@ -1,10 +1,11 @@
 # Tangramm 
+![alt text](https://github.com/anksprojects/tangramm/blob/master/Product/Tangramm/SVG/Kicker.svg)
 
 Tangramm is a FREE, Open-Source, and continuously evolving set of tangram shapes and Illustrations for designers and artists
 
 Go and get illustrations from [here](https://anksprojects.github.io/tangramm)
 
-![alt text](https://github.com/anksprojects/tangramm/blob/master/Product/Tangramm/SVG/Kicker.svg)
+
 
 ## Demo 
 
