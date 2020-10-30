@@ -4,7 +4,7 @@ Tangramm is a FREE, Open-Source, and continuously evolving set of tangram shapes
 
 Go and get illustrations from [here](https://anksprojects.github.io/tangramm)
 
-![alt text](https://github.com/anksproject/tangramm/blob/master/product/kicker.svg)
+![alt text](https://github.com/anksproject/tangramm/Product/Tangramm/SVG/Kicker.svg)
 
 ## Demo 
 
