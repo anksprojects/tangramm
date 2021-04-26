@@ -9,7 +9,7 @@ Go and get illustrations from [here](https://anksprojects.github.io/tangramm)
 
 ## Demo 
 
-visit this [website](https://anksprojects.github.io/tangramm) to see Tangram illustrations
+visit this [website](https://tangramm.netlify.app/) to see Tangram illustrations
 
 ## Usage
 
